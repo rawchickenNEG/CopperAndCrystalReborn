@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "copper_and_crystal_reborn:item/amethyst_hoe"
+  }
+}

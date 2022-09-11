@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "cookingtime": 800,
+  "ingredient": {
+    "item": "copper_and_crystal_reborn:obsidian_compound"
+  },
+  "result": "copper_and_crystal_reborn:obsidian_steel_ingot"
+}

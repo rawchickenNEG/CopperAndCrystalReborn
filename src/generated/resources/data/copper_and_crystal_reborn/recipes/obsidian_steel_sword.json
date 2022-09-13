@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " m ",
+    " m ",
+    " h "
+  ],
+  "key": {
+    "m": {
+      "item": "copper_and_crystal_reborn:obsidian_steel_ingot"
+    },
+    "h": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:obsidian_steel_sword"
+  }
+}

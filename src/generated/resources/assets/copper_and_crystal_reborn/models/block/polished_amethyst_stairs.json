@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "side": "copper_and_crystal_reborn:block/polished_amethyst_block",
+    "bottom": "copper_and_crystal_reborn:block/polished_amethyst_block",
+    "top": "copper_and_crystal_reborn:block/polished_amethyst_block"
+  }
+}

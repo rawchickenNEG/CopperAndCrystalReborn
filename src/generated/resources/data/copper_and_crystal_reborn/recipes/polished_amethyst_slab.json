@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "polished_amethyst_slab",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "copper_and_crystal_reborn:polished_amethyst_block"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:polished_amethyst_slab",
+    "count": 6
+  }
+}

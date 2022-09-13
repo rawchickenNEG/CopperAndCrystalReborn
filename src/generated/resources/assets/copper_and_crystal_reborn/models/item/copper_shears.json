@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "copper_and_crystal_reborn:item/copper_shears"
+  }
+}

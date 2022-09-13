@@ -1,0 +1,60 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "copper_and_crystal_reborn:obsidian_compound"
+    ]
+  },
+  "criteria": {
+    "has_obsidian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:obsidian"
+            ]
+          }
+        ]
+      }
+    },
+    "has_popped_chorus_fruit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:popped_chorus_fruit"
+            ]
+          }
+        ]
+      }
+    },
+    "has_amethyst_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:amethyst_shard"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "copper_and_crystal_reborn:obsidian_compound"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_obsidian",
+      "has_popped_chorus_fruit",
+      "has_amethyst_shard",
+      "has_the_recipe"
+    ]
+  ]
+}

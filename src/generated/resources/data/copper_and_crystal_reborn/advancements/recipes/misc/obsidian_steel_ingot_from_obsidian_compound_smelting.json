@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "copper_and_crystal_reborn:obsidian_steel_ingot_from_obsidian_compound_smelting"
+    ]
+  },
+  "criteria": {
+    "has_obsidian_compound": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "copper_and_crystal_reborn:obsidian_compound"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "copper_and_crystal_reborn:obsidian_steel_ingot_from_obsidian_compound_smelting"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_obsidian_compound",
+      "has_the_recipe"
+    ]
+  ]
+}

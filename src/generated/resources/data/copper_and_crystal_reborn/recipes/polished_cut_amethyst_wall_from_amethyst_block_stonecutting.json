@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:amethyst_block"
+  },
+  "result": "copper_and_crystal_reborn:polished_cut_amethyst_wall",
+  "count": 1
+}

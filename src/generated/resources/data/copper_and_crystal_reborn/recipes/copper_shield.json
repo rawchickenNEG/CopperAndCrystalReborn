@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "pcp",
+    "ppp",
+    " p "
+  ],
+  "key": {
+    "c": {
+      "tag": "forge:ingots/copper"
+    },
+    "p": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:copper_shield"
+  }
+}

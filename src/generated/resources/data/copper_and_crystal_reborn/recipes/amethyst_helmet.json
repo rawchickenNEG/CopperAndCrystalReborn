@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mmm",
+    "m m"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:amethyst_helmet"
+  }
+}

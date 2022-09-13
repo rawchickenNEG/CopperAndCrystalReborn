@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "copper_and_crystal_reborn:obsidian_steel_boots"
+    ]
+  },
+  "criteria": {
+    "has_obsidian_steel_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "copper_and_crystal_reborn:obsidian_steel_ingot"
+            ]
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "copper_and_crystal_reborn:obsidian_steel_boots"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_obsidian_steel_ingot",
+      "has_the_recipe"
+    ]
+  ]
+}

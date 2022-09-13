@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "polished_amethyst_stairs",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "copper_and_crystal_reborn:polished_amethyst_block"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:polished_amethyst_stairs",
+    "count": 4
+  }
+}

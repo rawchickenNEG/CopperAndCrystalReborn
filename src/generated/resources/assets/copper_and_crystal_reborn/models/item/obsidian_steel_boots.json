@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "copper_and_crystal_reborn:item/obsidian_steel_boots"
+  }
+}

@@ -1,0 +1,57 @@
+{
+	"_": "Missing Localizations: 0",
+
+	"_": "->------------------------]  Game Elements  [------------------------<-",
+
+	"block.copper_and_crystal_reborn.amethyst_slab": "紫水晶台阶",
+	"block.copper_and_crystal_reborn.amethyst_stairs": "紫水晶楼梯",
+	"block.copper_and_crystal_reborn.amethyst_wall": "紫水晶墙",
+	"block.copper_and_crystal_reborn.cut_amethyst_block": "切制紫水晶块",
+	"block.copper_and_crystal_reborn.cut_amethyst_slab": "切制紫水晶台阶",
+	"block.copper_and_crystal_reborn.cut_amethyst_stairs": "切制紫水晶楼梯",
+	"block.copper_and_crystal_reborn.cut_amethyst_wall": "切制紫水晶墙",
+	"block.copper_and_crystal_reborn.polished_amethyst_block": "磨制紫水晶块",
+	"block.copper_and_crystal_reborn.polished_amethyst_slab": "磨制紫水晶台阶",
+	"block.copper_and_crystal_reborn.polished_amethyst_stairs": "磨制紫水晶楼梯",
+	"block.copper_and_crystal_reborn.polished_amethyst_wall": "磨制紫水晶墙",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_block": "磨制切制紫水晶块",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_slab": "磨制切制紫水晶台阶",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_stairs": "磨制切制紫水晶楼梯",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_wall": "磨制切制紫水晶墙",
+
+	"item.copper_and_crystal_reborn.amethyst_axe": "紫水晶斧",
+	"item.copper_and_crystal_reborn.amethyst_boots": "紫水晶靴子",
+	"item.copper_and_crystal_reborn.amethyst_chestplate": "紫水晶胸甲",
+	"item.copper_and_crystal_reborn.amethyst_helmet": "紫水晶头盔",
+	"item.copper_and_crystal_reborn.amethyst_hoe": "紫水晶锄",
+	"item.copper_and_crystal_reborn.amethyst_leggings": "紫水晶护腿",
+	"item.copper_and_crystal_reborn.amethyst_paxel": "紫水晶镐尖斧",
+	"item.copper_and_crystal_reborn.amethyst_pickaxe": "紫水晶镐",
+	"item.copper_and_crystal_reborn.amethyst_shovel": "紫水晶锹",
+	"item.copper_and_crystal_reborn.amethyst_sword": "紫水晶剑",
+	"item.copper_and_crystal_reborn.copper_shears": "铜剪刀",
+	"item.copper_and_crystal_reborn.copper_shield": "铜盾牌",
+	"item.copper_and_crystal_reborn.gilded_netherite_boots": "镶金下界合金靴子",
+	"item.copper_and_crystal_reborn.gilded_netherite_chestplate": "镶金下界合金胸甲",
+	"item.copper_and_crystal_reborn.gilded_netherite_helmet": "镶金下界合金头盔",
+	"item.copper_and_crystal_reborn.gilded_netherite_leggings": "镶金下界合金护腿",
+	"item.copper_and_crystal_reborn.obsidian_compound": "黑曜复合物",
+	"item.copper_and_crystal_reborn.obsidian_steel_axe": "黑曜钢斧",
+	"item.copper_and_crystal_reborn.obsidian_steel_boots": "黑曜钢靴子",
+	"item.copper_and_crystal_reborn.obsidian_steel_chestplate": "黑曜钢胸甲",
+	"item.copper_and_crystal_reborn.obsidian_steel_helmet": "黑曜钢头盔",
+	"item.copper_and_crystal_reborn.obsidian_steel_hoe": "黑曜钢锄",
+	"item.copper_and_crystal_reborn.obsidian_steel_ingot": "黑曜钢锭",
+	"item.copper_and_crystal_reborn.obsidian_steel_leggings": "黑曜钢护腿",
+	"item.copper_and_crystal_reborn.obsidian_steel_pickaxe": "黑曜钢镐",
+	"item.copper_and_crystal_reborn.obsidian_steel_shovel": "黑曜钢锹",
+	"item.copper_and_crystal_reborn.obsidian_steel_sword": "黑曜钢剑",
+
+
+	"_": "->------------------------]  UI & Messages  [------------------------<-",
+
+	"itemGroup.copper_and_crystal_reborn": "铜与晶：重生",
+
+	"_": "Thank you for translating Copper & Crystal: Reborn!"
+
+}

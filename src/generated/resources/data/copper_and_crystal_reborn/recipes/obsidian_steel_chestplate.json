@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "m m",
+    "mmm",
+    "mmm"
+  ],
+  "key": {
+    "m": {
+      "item": "copper_and_crystal_reborn:obsidian_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:obsidian_steel_chestplate"
+  }
+}

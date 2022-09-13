@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "copper_and_crystal_reborn:polished_cut_amethyst_block"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:polished_cut_amethyst_wall",
+    "count": 6
+  }
+}

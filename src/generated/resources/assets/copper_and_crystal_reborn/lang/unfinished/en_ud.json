@@ -1,0 +1,57 @@
+{
+	"_": "Missing Localizations: 1",
+
+	"_": "->------------------------]  Game Elements  [------------------------<-",
+
+	"block.copper_and_crystal_reborn.amethyst_slab": "qɐןS ʇsʎɥʇǝɯⱯ",
+	"block.copper_and_crystal_reborn.amethyst_stairs": "sɹıɐʇS ʇsʎɥʇǝɯⱯ",
+	"block.copper_and_crystal_reborn.amethyst_wall": "ןןɐM ʇsʎɥʇǝɯⱯ",
+	"block.copper_and_crystal_reborn.cut_amethyst_block": "ʞɔoןᗺ ʇsʎɥʇǝɯⱯ ʇnƆ",
+	"block.copper_and_crystal_reborn.cut_amethyst_slab": "qɐןS ʇsʎɥʇǝɯⱯ ʇnƆ",
+	"block.copper_and_crystal_reborn.cut_amethyst_stairs": "sɹıɐʇS ʇsʎɥʇǝɯⱯ ʇnƆ",
+	"block.copper_and_crystal_reborn.cut_amethyst_wall": "ןןɐM ʇsʎɥʇǝɯⱯ ʇnƆ",
+	"block.copper_and_crystal_reborn.polished_amethyst_block": "ʞɔoןᗺ ʇsʎɥʇǝɯⱯ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_amethyst_slab": "qɐןS ʇsʎɥʇǝɯⱯ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_amethyst_stairs": "sɹıɐʇS ʇsʎɥʇǝɯⱯ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_amethyst_wall": "ןןɐM ʇsʎɥʇǝɯⱯ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_block": "ʞɔoןᗺ ʇsʎɥʇǝɯⱯ ʇnƆ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_slab": "qɐןS ʇsʎɥʇǝɯⱯ ʇnƆ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_stairs": "sɹıɐʇS ʇsʎɥʇǝɯⱯ ʇnƆ pǝɥsıןoԀ",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_wall": "ןןɐM ʇsʎɥʇǝɯⱯ ʇnƆ pǝɥsıןoԀ",
+
+	"item.copper_and_crystal_reborn.amethyst_axe": "ǝxⱯ ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_boots": "sʇooᗺ ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_chestplate": "ǝʇɐןdʇsǝɥƆ ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_helmet": "ʇǝɯןǝH ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_hoe": "ǝoH ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_leggings": "sbuıbbǝꞀ ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_paxel": "ןǝxɐԀ ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_pickaxe": "ǝxɐʞɔıԀ ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_shovel": "ןǝʌoɥS ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.amethyst_sword": "pɹoʍS ʇsʎɥʇǝɯⱯ",
+	"item.copper_and_crystal_reborn.copper_shears": "sɹɐǝɥS ɹǝddoƆ",
+	"item.copper_and_crystal_reborn.copper_shield": "pןǝıɥS ɹǝddoƆ",
+	"item.copper_and_crystal_reborn.gilded_netherite_boots": "sʇooᗺ ǝʇıɹǝɥʇǝN pǝpןı⅁",
+	"item.copper_and_crystal_reborn.gilded_netherite_chestplate": "ǝʇɐןdʇsǝɥƆ ǝʇıɹǝɥʇǝN pǝpןı⅁",
+	"item.copper_and_crystal_reborn.gilded_netherite_helmet": "ʇǝɯןǝH ǝʇıɹǝɥʇǝN pǝpןı⅁",
+	"item.copper_and_crystal_reborn.gilded_netherite_leggings": "sbuıbbǝꞀ ǝʇıɹǝɥʇǝN pǝpןı⅁",
+	"item.copper_and_crystal_reborn.obsidian_compound": "punodɯoƆ uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_axe": "ǝxⱯ ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_boots": "sʇooᗺ ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_chestplate": "ǝʇɐןdʇsǝɥƆ ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_helmet": "ʇǝɯןǝH ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_hoe": "ǝoH ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_ingot": "ʇobuI ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_leggings": "sbuıbbǝꞀ ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_pickaxe": "ǝxɐʞɔıԀ ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_shovel": "ןǝʌoɥS ןǝǝʇS uɐıpısqO",
+	"item.copper_and_crystal_reborn.obsidian_steel_sword": "pɹoʍS ןǝǝʇS uɐıpısqO",
+
+
+	"_": "->------------------------]  UI & Messages  [------------------------<-",
+
+	"itemGroup.copper_and_crystal_reborn": "UNLOCALIZED: Copper & Crystal: Reborn",
+
+	"_": "Thank you for translating Copper & Crystal: Reborn!"
+
+}

@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "copper_and_crystal_reborn:amethyst_slab",
+    "copper_and_crystal_reborn:amethyst_stairs",
+    "copper_and_crystal_reborn:amethyst_wall",
+    "copper_and_crystal_reborn:cut_amethyst_block",
+    "copper_and_crystal_reborn:cut_amethyst_slab",
+    "copper_and_crystal_reborn:cut_amethyst_stairs",
+    "copper_and_crystal_reborn:cut_amethyst_wall",
+    "copper_and_crystal_reborn:polished_amethyst_block",
+    "copper_and_crystal_reborn:polished_amethyst_slab",
+    "copper_and_crystal_reborn:polished_amethyst_stairs",
+    "copper_and_crystal_reborn:polished_amethyst_wall",
+    "copper_and_crystal_reborn:polished_cut_amethyst_block",
+    "copper_and_crystal_reborn:polished_cut_amethyst_slab",
+    "copper_and_crystal_reborn:polished_cut_amethyst_stairs",
+    "copper_and_crystal_reborn:polished_cut_amethyst_wall"
+  ]
+}

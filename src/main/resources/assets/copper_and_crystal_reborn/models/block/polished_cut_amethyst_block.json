@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "copper_and_crystal_reborn:block/polished_cut_amethyst_block"
-  }
-}

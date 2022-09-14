@@ -1,0 +1,56 @@
+{
+
+	"_": "->------------------------]  Game Elements  [------------------------<-",
+
+	"block.copper_and_crystal_reborn.amethyst_slab": "Amethyst Slab",
+	"block.copper_and_crystal_reborn.amethyst_stairs": "Amethyst Stairs",
+	"block.copper_and_crystal_reborn.amethyst_wall": "Amethyst Wall",
+	"block.copper_and_crystal_reborn.cut_amethyst_block": "Cut Amethyst Block",
+	"block.copper_and_crystal_reborn.cut_amethyst_slab": "Cut Amethyst Slab",
+	"block.copper_and_crystal_reborn.cut_amethyst_stairs": "Cut Amethyst Stairs",
+	"block.copper_and_crystal_reborn.cut_amethyst_wall": "Cut Amethyst Wall",
+	"block.copper_and_crystal_reborn.polished_amethyst_block": "Polished Amethyst Block",
+	"block.copper_and_crystal_reborn.polished_amethyst_slab": "Polished Amethyst Slab",
+	"block.copper_and_crystal_reborn.polished_amethyst_stairs": "Polished Amethyst Stairs",
+	"block.copper_and_crystal_reborn.polished_amethyst_wall": "Polished Amethyst Wall",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_block": "Polished Cut Amethyst Block",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_slab": "Polished Cut Amethyst Slab",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_stairs": "Polished Cut Amethyst Stairs",
+	"block.copper_and_crystal_reborn.polished_cut_amethyst_wall": "Polished Cut Amethyst Wall",
+
+	"item.copper_and_crystal_reborn.amethyst_axe": "Amethyst Axe",
+	"item.copper_and_crystal_reborn.amethyst_boots": "Amethyst Boots",
+	"item.copper_and_crystal_reborn.amethyst_chestplate": "Amethyst Chestplate",
+	"item.copper_and_crystal_reborn.amethyst_helmet": "Amethyst Helmet",
+	"item.copper_and_crystal_reborn.amethyst_hoe": "Amethyst Hoe",
+	"item.copper_and_crystal_reborn.amethyst_leggings": "Amethyst Leggings",
+	"item.copper_and_crystal_reborn.amethyst_paxel": "Amethyst Paxel",
+	"item.copper_and_crystal_reborn.amethyst_pickaxe": "Amethyst Pickaxe",
+	"item.copper_and_crystal_reborn.amethyst_shovel": "Amethyst Shovel",
+	"item.copper_and_crystal_reborn.amethyst_sword": "Amethyst Sword",
+	"item.copper_and_crystal_reborn.copper_shears": "Copper Shears",
+	"item.copper_and_crystal_reborn.copper_shield": "Copper Shield",
+	"item.copper_and_crystal_reborn.gilded_netherite_boots": "Gilded Netherite Boots",
+	"item.copper_and_crystal_reborn.gilded_netherite_chestplate": "Gilded Netherite Chestplate",
+	"item.copper_and_crystal_reborn.gilded_netherite_helmet": "Gilded Netherite Helmet",
+	"item.copper_and_crystal_reborn.gilded_netherite_leggings": "Gilded Netherite Leggings",
+	"item.copper_and_crystal_reborn.obsidian_compound": "Obsidian Compound",
+	"item.copper_and_crystal_reborn.obsidian_steel_axe": "Obsidian Steel Axe",
+	"item.copper_and_crystal_reborn.obsidian_steel_boots": "Obsidian Steel Boots",
+	"item.copper_and_crystal_reborn.obsidian_steel_chestplate": "Obsidian Steel Chestplate",
+	"item.copper_and_crystal_reborn.obsidian_steel_helmet": "Obsidian Steel Helmet",
+	"item.copper_and_crystal_reborn.obsidian_steel_hoe": "Obsidian Steel Hoe",
+	"item.copper_and_crystal_reborn.obsidian_steel_ingot": "Obsidian Steel Ingot",
+	"item.copper_and_crystal_reborn.obsidian_steel_leggings": "Obsidian Steel Leggings",
+	"item.copper_and_crystal_reborn.obsidian_steel_pickaxe": "Obsidian Steel Pickaxe",
+	"item.copper_and_crystal_reborn.obsidian_steel_shovel": "Obsidian Steel Shovel",
+	"item.copper_and_crystal_reborn.obsidian_steel_sword": "Obsidian Steel Sword",
+
+
+	"_": "->------------------------]  UI & Messages  [------------------------<-",
+
+	"itemGroup.copper_and_crystal_reborn": "Copper & Crystal: Reborn",
+
+	"_": "Thank you for translating Copper & Crystal: Reborn!"
+
+}

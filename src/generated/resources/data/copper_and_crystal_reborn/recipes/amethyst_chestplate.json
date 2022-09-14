@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "m m",
+    "mmm",
+    "mmm"
+  ],
+  "key": {
+    "m": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "copper_and_crystal_reborn:amethyst_chestplate"
+  }
+}

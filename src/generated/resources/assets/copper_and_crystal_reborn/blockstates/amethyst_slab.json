@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=top": {
+      "model": "copper_and_crystal_reborn:block/amethyst_slab_top"
+    },
+    "type=bottom": {
+      "model": "copper_and_crystal_reborn:block/amethyst_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/amethyst_block"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "copper_and_crystal_reborn:obsidian_compound"
+  },
+  "result": "copper_and_crystal_reborn:obsidian_steel_ingot",
+  "experience": 4.0,
+  "cookingtime": 400
+}

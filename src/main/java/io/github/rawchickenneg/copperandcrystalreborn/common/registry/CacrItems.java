@@ -33,7 +33,6 @@ import org.apache.commons.lang3.tuple.Pair;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.EnumMap;
-import java.util.LinkedList;
 import java.util.List;
 
 public class CacrItems {
@@ -41,12 +40,12 @@ public class CacrItems {
     private static final CacrRegistrate REGISTRATE = Cacr.REGISTRATE.get().creativeModeTab(() -> CreativeModeTab.TAB_MISC);
     
     //No EnumMap here because of its improper ordering
-    public static final List<Pair<EquipmentSlot, String>> ARMOR_SUFFIXES = new LinkedList<>() {{
-        add(Pair.of(EquipmentSlot.HEAD, "helmet"));
-        add(Pair.of(EquipmentSlot.CHEST, "chestplate"));
-        add(Pair.of(EquipmentSlot.LEGS, "leggings"));
-        add(Pair.of(EquipmentSlot.FEET, "boots"));
-    }};
+    public static final List<Pair<EquipmentSlot, String>> ARMOR_SUFFIXES = List.of(
+        Pair.of(EquipmentSlot.HEAD, "helmet"),
+        Pair.of(EquipmentSlot.CHEST, "chestplate"),
+        Pair.of(EquipmentSlot.LEGS, "leggings"),
+        Pair.of(EquipmentSlot.FEET, "boots")
+    );
     
     public static final ItemEntry<ShearsItem> COPPER_SHEARS = REGISTRATE.item("copper_shears", ShearsItem::new)
         .initialProperties(() -> new Item.Properties().durability(182))
